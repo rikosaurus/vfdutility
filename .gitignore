@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Non-distributable resources
+VFDUtility/Resources/vfd_display.ttf

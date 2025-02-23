@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFDUtility", "VFDUtility\VFDUtility.csproj", "{F10C3A03-5D76-406B-B121-FDB39AE00DB4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VFDUtilitySetup", "VFDUtilitySetup\VFDUtilitySetup.vdproj", "{DA247AAD-21A2-466C-BEE8-1BC792140B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10C3A03-5D76-406B-B121-FDB39AE00DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10C3A03-5D76-406B-B121-FDB39AE00DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10C3A03-5D76-406B-B121-FDB39AE00DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10C3A03-5D76-406B-B121-FDB39AE00DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA247AAD-21A2-466C-BEE8-1BC792140B8C}.Debug|Any CPU.ActiveCfg = Debug
+		{DA247AAD-21A2-466C-BEE8-1BC792140B8C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
